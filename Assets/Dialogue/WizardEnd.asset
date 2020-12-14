@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50aa618ce839beb4bbdaadd6274efcce, type: 3}
+  m_Name: WizardEnd
+  m_EditorClassIdentifier: 
+  DialogSlides:
+  - 'The Wizard: You have already figured out that WASD or the arrow keys grant you
+    the mighty power of locomotion.'
+  - 'The Wizard: There may be times where you must interact with an object in the
+    environment. Use ''E'' to do so!'
+  - 'The Wizard: The path home is beset with perils, most of which foul gates blocking
+    your way!'
+  - 'The Wizard: Fortunately there will be good people who can help you past them,
+    you have only to talk to them and do what they ask!'
+  - 'The Wizard: Best of luck! I shall remain here if you require a refresher.'
+  option1: 
+  option2: 
+  nextDialog1: {fileID: 0}
+  nextDialog2: {fileID: 0}

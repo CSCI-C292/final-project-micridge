@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50aa618ce839beb4bbdaadd6274efcce, type: 3}
+  m_Name: Puppet7
+  m_EditorClassIdentifier: 
+  DialogSlides:
+  - 'Thief: Now that we have snacks, let''s go to the park.'
+  - 'The Thief, Pretending to be a Child: Hello there sir. Could you possibly share
+    some of your snack with me? I would be very grateful!'
+  option1: Sure thing, child
+  option2: No, it's mine
+  nextDialog1: {fileID: 11400000, guid: 211e6b4ad12a95b43969a79769fd080e, type: 2}
+  nextDialog2: {fileID: 11400000, guid: 09adec5656121ec42870ec7329c6e805, type: 2}

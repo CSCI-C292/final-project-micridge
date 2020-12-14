@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50aa618ce839beb4bbdaadd6274efcce, type: 3}
+  m_Name: Puppet4
+  m_EditorClassIdentifier: 
+  DialogSlides:
+  - 'Thief: Now that that''s done, let''s go get some snacks from the market.'
+  - 'Thief: Hey look! They have a take a penny leave a penny tray.'
+  - (The Thief takes a penny, not leaving one behind)
+  option1: You should leave a penny
+  option2: (Say Nothing)
+  nextDialog1: {fileID: 11400000, guid: 7e45a708377aa544f8a9fab01eb4e872, type: 2}
+  nextDialog2: {fileID: 11400000, guid: 535e9da21c889bb49b97a59ecc1b9c35, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50aa618ce839beb4bbdaadd6274efcce, type: 3}
+  m_Name: PuppetGood
+  m_EditorClassIdentifier: 
+  DialogSlides:
+  - 'Thief: I think that went great!'
+  - 'Thief: You know, maybe I ought to be a playwright instead of an outlaw.'
+  - 'Thief: Now that that''s over the kids should be let out of school, so the gate
+    will be open.'
+  - 'Thief: I hope I see you again! :)'
+  option1: 
+  option2: 
+  nextDialog1: {fileID: 0}
+  nextDialog2: {fileID: 0}

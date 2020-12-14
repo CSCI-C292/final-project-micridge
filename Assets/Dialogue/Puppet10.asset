@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50aa618ce839beb4bbdaadd6274efcce, type: 3}
+  m_Name: Puppet10
+  m_EditorClassIdentifier: 
+  DialogSlides:
+  - 'Thief: You know, I''ve been thinking.'
+  - 'Thief: I haven''t been very nice today, or a good friend to you.'
+  - 'Thief: I''m very sorry about that, could you find it in your heart to forgive
+    me?'
+  option1: No
+  option2: Yes
+  nextDialog1: {fileID: 11400000, guid: a7e9c0a986cbb7943b54c8c21dcfabe2, type: 2}
+  nextDialog2: {fileID: 11400000, guid: 221a9f4b5f625fb418ed6e4b16e3362d, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50aa618ce839beb4bbdaadd6274efcce, type: 3}
+  m_Name: FarmerAccept
+  m_EditorClassIdentifier: 
+  DialogSlides:
+  - 'Farmer: Great! Now there isn''t much to be done now but sow the fields.'
+  - 'Farmer: These days folk aren''t much for traditional produce, so I figured I''d
+    try my hand at gene splicing.'
+  - 'Farmer: Take these seeds and plant me all what I need to grow a delicious cheese
+    pizza.'
+  option1: (Exit Dialogue)
+  option2: (Exit Dialogue)
+  nextDialog1: {fileID: 0}
+  nextDialog2: {fileID: 0}
